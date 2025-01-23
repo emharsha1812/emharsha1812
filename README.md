@@ -39,7 +39,6 @@ Implemented ML models predicting stock prices with **85% accuracy**, leveraging 
 
 - Contributing to **PULSE (Python Unified Library for Sensor Emulation)**, an open-source library for radar signal processing and ML testing.  
 - Exploring **Neural Radiance Fields (NeRFs)** and their applications in 3D rendering.  
-- Preparing to join **NLP Lab** at IISc Bangalore as a predoctoral researcher.  
 
 ---
 
