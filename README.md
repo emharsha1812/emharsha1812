@@ -1,5 +1,7 @@
 # Hi there, I'm Harshwardhan Fartale 👋
 
+![](https://komarev.com/ghpvc/?username=emharsha1812&style=flat-square&color=green)
+
 ## 🚀 About Me
 
 I'm a **Predoc Associate** at the Indian Institute of Science (IISc), Bangalore, working at the AiREX Lab under Professor Sashikumaar Ganesan. My research focuses on developing cutting-edge **Machine Learning** systems for applications in combat aircraft.
