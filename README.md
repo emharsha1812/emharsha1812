@@ -17,14 +17,16 @@ In the past, I’ve worked as:
 
 ## 🔬 Key Projects
 
+### Alfred
+A sophisticated AI tool that enhances your development workflow—without sending your code to the cloud.
+
 ### 📄 Document Tampering Detection using YOLOv8
 A forgery detection system to classify alterations (e.g., overwriting, scribbling) using YOLOv8. Built an extensive dataset of 600+ document images and designed a **Streamlit-based web interface** for user-friendly analysis.
 
 ### 👁️ Fundus AI
 Developed an end-to-end system to detect ophthalmic and systemic diseases (e.g., Diabetic Retinopathy, Cataract) via smartphone cameras. Integrated deep learning with **3D-printed smartphone accessories** for affordable healthcare.
 
-### 📈 Stock Market Prediction
-Implemented ML models predicting stock prices with **85% accuracy**, leveraging time series analysis and news data. Boosted model performance by **25%** through advanced feature engineering.
+### 
 
 ---
 
