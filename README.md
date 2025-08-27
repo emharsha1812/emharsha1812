@@ -4,8 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a **Predoc Associate** at the Indian Institute of Science (IISc), Bangalore, working at the AiREX Lab under Professor Sashikumaar Ganesan. My research focuses on developing cutting-edge **Machine Learning** systems for applications in combat aircraft.
-
+I'm a **Predoc Associate** at the Indian Institute of Science (IISc), Bangalore, working at the AiREX Lab under Professor Sashikumaar Ganesan. My research focuses on Large Language Models, GPU Optimization & Mechanistic Interpretibility.
 I hold a **B.Tech in Electrical Engineering** from the National Institute of Technology, Hamirpur, where I cultivated a deep passion for **Machine Learning**, **Optimization**, and **Natural Language Processing**.
 
 In the past, I’ve worked as:
