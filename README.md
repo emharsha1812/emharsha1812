@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=emharsha1812&style=flat-square&color=green)
 
-I work on GPUs, Large Language Models (LLMs) and make them more explainable (Mechanistic Interpretibility)
-
+I work on GPUs, Large Language Models (LLMs) and everything AI
 ## 📫 Let's Connect!
 
 - 💻 [Portfolio](https://emharsha1812.github.io)  
